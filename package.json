@@ -1,14 +1,13 @@
 {
   "name": "mongoose-quickstart",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+  "description": "Uses mongoose.js to create an User schema and save random users to Mongodb.",
+  "main": "app.js",
+  "scripts": {    
     "start": "node ./src/app.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["Mongoose", "Quick Start"],
+  "author": "Abner Castro",
   "license": "ISC",
   "dependencies": {
     "mongoose": "^5.4.14",
