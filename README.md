@@ -1,0 +1,1 @@
+Quickstart guide with Mongoose using ES5 async/await. Creates basic User schema with a `greet` method and uses RandomUser API to fetch random user info.
