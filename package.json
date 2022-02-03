@@ -3,10 +3,13 @@
   "version": "1.0.0",
   "description": "Uses mongoose.js to create an User schema and save random users to Mongodb.",
   "main": "app.js",
-  "scripts": {    
+  "scripts": {
     "start": "node ./src/app.js"
   },
-  "keywords": ["Mongoose", "Quick Start"],
+  "keywords": [
+    "Mongoose",
+    "Quick Start"
+  ],
   "author": "Abner Castro",
   "license": "ISC",
   "dependencies": {
